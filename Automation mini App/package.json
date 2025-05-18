@@ -1,0 +1,17 @@
+{
+  "name": "data-entry-automation-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^22.14.0",
+    "xlsx": "^0.18.5"
+  }
+}
